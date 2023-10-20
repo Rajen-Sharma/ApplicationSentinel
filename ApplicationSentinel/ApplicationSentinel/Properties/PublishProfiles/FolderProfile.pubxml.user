@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>\\MELMD3511\AppSentinel</_PublishTargetUrl>
+    <History>True|2023-09-06T05:44:33.8159738Z;True|2023-09-06T15:06:55.7727823+10:00;False|2023-09-06T15:06:37.9388588+10:00;True|2023-09-06T14:55:48.4469544+10:00;False|2023-09-06T14:55:14.5499042+10:00;True|2023-09-06T13:40:12.0949802+10:00;False|2023-09-06T13:39:25.1368036+10:00;True|2023-09-06T13:26:11.2026187+10:00;True|2023-09-06T12:15:10.1100734+10:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
